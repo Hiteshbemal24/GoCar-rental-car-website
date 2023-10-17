@@ -2,7 +2,7 @@
 
 #Overview
 
-[https://github.com/Hiteshbemal24/GoCar-rental-car-website](https://github.com/Hiteshbemal24/GoCar-rental-car-website/blob/main/carzoomer_netlify_app.png)
+[Car rental website](https://github.com/Hiteshbemal24/GoCar-rental-car-website/blob/main/carzoomer_netlify_app.png)
 
 
 # GoCar - Car Rental Website
